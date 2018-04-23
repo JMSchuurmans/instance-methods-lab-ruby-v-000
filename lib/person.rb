@@ -9,5 +9,3 @@ adele_goldberg = Person.new
   def walk
     puts "The Person is walking"
   end
-end
-  
